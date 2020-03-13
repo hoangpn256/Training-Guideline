@@ -496,3 +496,11 @@ Click this underline statement, you will go to login page
 * In a user’s profile, display all people this user follow
 
 * Using jquery ajax to make follow and unfollow instead of rails ajax
+
+***
+# Contact
+
+* [Facebook](https://www.facebook.com/mrhoangpn)
+* [Twitter](https://twitter.com/Hoangphamngoc2)
+* [Instagram](https://www.instagram.com/be_thelegend/)
+* [Email](mailto:pnhoang.bk@gmail.com?subject=[Github])
