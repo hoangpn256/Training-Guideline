@@ -12,12 +12,13 @@
 * [Chapter 13](#chapter13)
 * [Chapter 14](#chapter14)
 
-
-
+***
 
 <a name='chapter1-2' />
 
 ### Chapter 1, 2
+* Chapter 1 - From zero to deploy
+* Chapter 2 - A toy app
 
 #### Objective
 
@@ -65,10 +66,14 @@ with each other
 
 * Write out the analogous steps for visiting the URL /users/1/edit
 
+***
+
 <a name='chapter3-4-5' />
 
 ### Chapter 3, 4, 5
-
+* Chapter 3 - Mostly static pages
+* Chapter 4 - Rails-flavored Ruby
+* Chapter 5 - Filling in the layout
 #### Objective
 
 * Begin developing the sample application, this will be completed in our course.
@@ -107,9 +112,11 @@ Rails Tutorial Sample App”.
 * Create controller micropost and when you visit your website, you can see all
 micropost
 
+***
+
 <a name='chapter6' />
 
-### Chapter 6
+### Chapter 6 - Modeling users
 
 #### Objective
 
@@ -151,9 +158,11 @@ provided by? How does this method work?
 
 * [Ruby on Rails Guide - Active Record Query](https://guides.rubyonrails.org/active_record_querying.html)
 
+***
+
 <a name='chapter7' />
 
-### Chapter 7
+### Chapter 7 - Sign up
 
 #### Objective
 
@@ -191,9 +200,11 @@ provided by? How does this method work?
 where you can choose date and gender you can choose between three
 values: female, male, other
 
+***
+
 <a name='chapter8' />
 
-### Chapter 8
+### Chapter 8 - Basic login
 
 #### Objective
 
@@ -231,9 +242,11 @@ values: female, male, other
 
 * Log in with a valid user and inspect your browser’s cookies. What is the value of the session content? Hint: If you don’t know how to view your browser’s cookies, Google for it
 
+***
+
 <a name='chapter9' />
 
-### Chapter 9
+### Chapter 9 - Advanced login
 
 #### Objective
 
@@ -267,9 +280,11 @@ login status and user identity
 
 * After logging out, verify that the corresponding cookies have been removed from your browser.
 
+***
+
 <a name='chapter10' />
 
-### Chapter 10
+### Chapter 10 - Updating, showing, and deleting users
 
 #### Objective
 
@@ -300,9 +315,11 @@ login status and user identity
 * Create Laptop model has two attributes: title and content with validation: max
 length of title is 250 characters
 
+***
+
 <a name='chapter11' />
 
-### Chapter 11
+### Chapter 11 - Account activation
 
 #### Objective
 
@@ -342,9 +359,11 @@ length of title is 250 characters
 
 * Deploy your code and using Gmail mail server to send email
 
+***
+
 <a name='chapter12' />
 
-### Chapter 12
+### Chapter 12 - Password reset
 
 #### Objective
 
@@ -383,9 +402,11 @@ both plain-text and HTML mail).
 **You just changed your password, sign in again so we know it's you! Click here**
 Click this underline statement, you will go to login page
 
+***
+
 <a name='chapter13' />
 
-### Chapter 13
+### Chapter 13 - User microposts
 
 #### Objective
 
@@ -434,9 +455,11 @@ Click this underline statement, you will go to login page
 * Modify user's profile page **app/views/users/show.html.erb**, so that you can
 **write a micropost** when **accessing** this page
 
+***
+
 <a name='chapter14' />
 
-### Chapter 14
+### Chapter 14 - Following users
 
 #### Objective
 

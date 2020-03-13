@@ -57,4 +57,7 @@
 ## Recommend
 
 * Tham khảo nhiều nguồn tài liệu khác nhau về một vấn đề để có những góc nhìn tốt hơn
+
 * Hiểu được bản chất của Rails
+
+* Tham khảo [cấu trúc tồng hợp](./rails-tutorial-book.md) của sách [Ruby on rails Tutorial - Website](https://www.learnenough.com/ruby-on-rails-4th-edition-tutorial/beginning)
