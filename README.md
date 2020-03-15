@@ -5,6 +5,8 @@
 3. [Ruby](/Ruby/ruby-tutorial.md)
 4. [Ruby on Rails](/RubyOnRails/rails-tutorial.md)
 
+# Coding Standards
+* Tham khảo [coding standards](https://github.com/hoangpn256/coding-standards)
 ***
 # Contact
 
